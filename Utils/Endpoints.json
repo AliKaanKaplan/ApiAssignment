@@ -1,0 +1,18 @@
+﻿{
+  "BaseUrl": "https://petstore.swagger.io/v2/",
+  "User": {
+    "CreateUserWithArray": "user/createWithArray/",
+    "CreateUserWithList": "user/createWithList/",
+    "Login": "user/login/",
+    "Logout": "user/logout/",
+    "User": "user/"
+  },
+  "Pet": {
+    "Pet": "pet/",
+    "FindByStatus": "pet/findByStatus/"
+  },
+  "Store": {
+    "Order": "store/order/",
+    "Inventory": "store/inventory/"
+  }
+}

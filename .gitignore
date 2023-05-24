@@ -1,0 +1,36 @@
+﻿# Visual Studio files
+﻿.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+*.code-workspace
+
+# Build output
+bin/
+obj/
+
+*.exe
+*.dll
+*.pdb
+
+# NuGet
+packages/
+*.nupkg
+*.pdb
+
+# Test results
+TestResults/
+
+# SpecFlow
+TestExecutionReports/
+
+# Allure
+AllureResults/
+
+# Selenium
+Drivers/
