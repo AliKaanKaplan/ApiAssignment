@@ -1,6 +1,5 @@
 ﻿# Visual Studio files
 ﻿.vs/
-.idea/
 *.suo
 *.user
 *.userosscache
